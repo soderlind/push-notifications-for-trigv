@@ -2,9 +2,9 @@
 Contributors: PerS
 Tags: notifications, push, events, webhook, trigv
 Requires at least: 6.8
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 8.3
-Stable tag: 2.0.2
+Stable tag: 2.0.3
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -97,6 +97,13 @@ Check that you have entered a valid API key, enabled at least one Trigger, and t
 3. Log of dispatched notifications, with status and delivery info from Trigv.
 
 == Changelog ==
+
+= 2.0.3 =
+* Refactor code structure for readability and maintainability.
+* Improve user-authentication module security and maintainability.
+* Link to Trigv in the readme description.
+* Add manual dispatch for the WordPress.org-assets workflow.
+* Improve plugin icon scaling.
 
 = 2.0.2 =
 * Add a GitHub Actions workflow to sync WordPress.org plugin assets on release.

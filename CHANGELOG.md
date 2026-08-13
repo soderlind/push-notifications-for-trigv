@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.0.3 - 2026-08-13
+
+- Refactor code structure for readability and maintainability.
+- Improve user-authentication module security and maintainability.
+- Link to Trigv in the readme description.
+- Add manual dispatch for the WordPress.org-assets workflow.
+- Improve plugin icon scaling.
+
 ## 2.0.2 - 2026-07-15
 
 - Add a GitHub Actions workflow to sync WordPress.org plugin assets on release.
